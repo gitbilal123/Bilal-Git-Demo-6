@@ -1,7 +1,12 @@
 # Bilal-Git-Demo-6
-This is my 6th Git Repository
-Hi Bilal ! Welcome to new Git
+This is my 6th Git Repository.
+<br>
+Hi Bilal ! Welcome to new Git.
+<br>
 VHDL
-Real time Operating System
+<br>
+Real time Operating System.
+<br>
 Actify
+<br>
 GOLD
